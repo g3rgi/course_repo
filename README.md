@@ -1,2 +1,2 @@
 # course_repo
-Test rope for the ibm course
+Test repo for the ibm course
